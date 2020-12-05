@@ -27,7 +27,7 @@
     "ext-pcntl":  "*",
     "ext-mbstring":  "*",
     "slim/slim": "2.*",
-    "symfony/console": "~5.2.0",
+    "symfony/console": "~2.6",
     "phpdocumentor/reflection-docblock": "~2.0",
     "symfony/filesystem": "~2.6",
     "wingu/code-generator": "1.0.5",
